@@ -1,0 +1,80 @@
+[
+  {
+    "username": "sevgi",
+    "profileImageUrl": "https://storage.googleapis.com/codeway_data/pexels-cliff-booth-4058316.jpg",
+    "stories": [
+      {
+        "url": "https://storage.googleapis.com/codeway_data/pexels-clive-kim-4220967.jpg",
+        "duration": 5.0,
+        "mediaType": "image",
+        "date": "2023-10-27T16:05:00Z"
+      },
+      {
+        "url": "https://storage.googleapis.com/codeway_data/pexels-jacob-colvin-1761279.jpg",
+        "duration": 5.0,
+        "mediaType": "image",
+        "date": "2023-10-27T16:15:00Z"
+      },
+      {
+        "url": "https://storage.googleapis.com/codeway_data/pexels-marcelo-chagas-14934612.jpg",
+        "duration": 5.0,
+        "mediaType": "image",
+        "date": "2023-10-27T11:02:00Z"
+      }
+    ]
+  },
+  {
+    "username": "hatice",
+    "profileImageUrl": "https://storage.googleapis.com/codeway_data/pexels-kristin-vogt-61100.jpg",
+    "stories": [
+      {
+        "url": "https://storage.googleapis.com/codeway_data/pexels-jaime-reimer-2679814.jpg",
+        "duration": 5.0,
+        "mediaType": "image",
+        "date": "2023-10-27T11:22:00Z"
+      },
+      {
+        "url": "https://storage.googleapis.com/codeway_data/video_of_funny_cat%20(1080p).mp4",
+        "duration": 22.5,
+        "mediaType": "video",
+        "date": "2023-10-27T08:47:00Z"
+      }
+    ]
+  },
+  {
+    "username": "irfan",
+    "profileImageUrl": "https://storage.googleapis.com/codeway_data/pexels-shukhrat-umarov-1585634.jpg",
+    "stories": [
+      {
+        "url": "https://storage.googleapis.com/codeway_data/pexels-polina-tankilevitch-4519122.jpg",
+        "duration": 5.0,
+        "mediaType": "image",
+        "date": "2023-10-27T08:47:00Z"
+      }
+    ]
+  },
+  {
+    "username": "yemre",
+    "profileImageUrl": "https://storage.googleapis.com/codeway_data/pexels-thgusstavo-santana-1933873.jpg",
+    "stories": [
+      {
+        "url": "https://storage.googleapis.com/codeway_data/pexels_videos_2699%20(1080p).mp4",
+        "duration": 14.5,
+        "mediaType": "video",
+        "date": "2023-10-27T08:45:10Z"
+      }
+    ]
+  },
+  {
+    "username": "kubra",
+    "profileImageUrl": "https://storage.googleapis.com/codeway_data/pexels-guilherme-almeida-1858175.jpg",
+    "stories": [
+      {
+        "url": "https://storage.googleapis.com/codeway_data/183271%20(1080p).mp4",
+        "duration": 10.5,
+        "mediaType": "video",
+        "date": "2023-10-27T21:30:05Z"
+      }
+    ]
+  }
+]
